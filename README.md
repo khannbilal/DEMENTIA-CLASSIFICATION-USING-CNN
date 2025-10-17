@@ -50,6 +50,7 @@ Description: Structural MRI scans categorized into nondemented, mild cognitive i
  Confusion matrix for stagelevel error analysis.
 
  5. Project Architecture Diagram (Textual)
+
         ┌────────────────────────┐
         │ MRI Brain Scans (ADNI) │
         └──────────┬─────────────┘
