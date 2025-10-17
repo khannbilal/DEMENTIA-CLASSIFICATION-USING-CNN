@@ -49,7 +49,7 @@ Description: Structural MRI scans categorized into nondemented, mild cognitive i
  ROCAUC per class for multistage classification.
  Confusion matrix for stagelevel error analysis.
 
- 5. Project Architecture Diagram (Textual)
+# Project Architecture Diagram (Textual)
 
         ┌────────────────────────┐
         │ MRI Brain Scans (ADNI) │
